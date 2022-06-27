@@ -44,6 +44,11 @@ label {
   font-weight: bold;
 }
 
+section{
+  background-color: #7B7B7B;
+  padding: 0%;
+}
+
 .miformulario{
   width: 40%;
 }
@@ -71,6 +76,6 @@ label {
 }
 
 footer{
-  background: #5E5E5E;
+  background: #F4AB14;
   color: #FFF;
 }
